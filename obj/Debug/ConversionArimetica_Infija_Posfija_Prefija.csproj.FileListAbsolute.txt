@@ -1,0 +1,10 @@
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\bin\Debug\ConversionArimetica_Infija_Posfija_Prefija.exe.config
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\bin\Debug\ConversionArimetica_Infija_Posfija_Prefija.exe
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\bin\Debug\ConversionArimetica_Infija_Posfija_Prefija.pdb
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.csprojAssemblyReference.cache
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.FrmPosfija.resources
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.Properties.Resources.resources
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.csproj.GenerateResource.cache
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.csproj.CoreCompileInputs.cache
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.exe
+E:\SOFTWARE\C#\ConversionArimetica_Infija_Posfija_Prefija\obj\Debug\ConversionArimetica_Infija_Posfija_Prefija.pdb
